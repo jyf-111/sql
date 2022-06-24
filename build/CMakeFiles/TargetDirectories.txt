@@ -1,0 +1,3 @@
+C:/Users/jyf/code/sql/build/CMakeFiles/test.dir
+C:/Users/jyf/code/sql/build/CMakeFiles/edit_cache.dir
+C:/Users/jyf/code/sql/build/CMakeFiles/rebuild_cache.dir
