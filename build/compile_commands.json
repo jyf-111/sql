@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/jyf/code/sql/build",
-  "command": "C:\\Users\\jyf\\scoop\\apps\\mingw-winlibs\\current\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\test.dir\\test.cpp.obj -c C:\\Users\\jyf\\code\\sql\\test.cpp",
-  "file": "C:/Users/jyf/code/sql/test.cpp"
-}
-]
